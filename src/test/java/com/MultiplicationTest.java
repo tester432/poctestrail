@@ -8,6 +8,6 @@ class MultiplicationTest {
 
     @Test
     void MultiplyTwoNumbers() {
-        Assert.assertEquals(4, 2*2, "Should equal 4");
+        Assert.assertEquals(5, 2*2, "Should equal 4");
     }
 }
