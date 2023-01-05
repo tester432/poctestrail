@@ -8,6 +8,6 @@ class SubtractionTests {
 
     @Test
     void SubtractTwoNumbers() {
-        Assert.assertEquals(4, 2 - 1, "Should equal 1");
+        Assert.assertEquals(1, 2 - 1, "Should equal 1");
     }
 }
