@@ -10,4 +10,8 @@ class MultiplicationTest {
     void MultiplyTwoNumbers() {
         Assert.assertEquals(4, 2*2, "Should equal 4");
     }
+    @Test
+    void Test() {
+        Assert.assertEquals(4, 2*2, "Should equal 4");
+    }
 }
