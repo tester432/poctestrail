@@ -11,7 +11,7 @@ class MultiplicationTest {
         Assert.assertEquals(4, 2*2, "Should equal 4");
     }
     @Test
-    void Scenario: Verify Accounts page() {
+    void ScenarioVerifyAccountspage() {
         Assert.assertEquals(4, 2*2, "Should equal 4");
     }
 }

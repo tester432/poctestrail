@@ -61,7 +61,11 @@
     <property name="java.class.version" value="55.0"/>
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
   </properties>
-  <testcase name="Scenario: Verify Accounts page" time="0"/>
+  <testcase name="AddTwoNumbers" classname="com.SumTests" time="0.005"/>
+  <testcase name="AddTwoNumbersWithDecimals" classname="com.SumTests" time="0"/>
+  <testcase name="SubtractTwoNumbers" classname="com.SubtractionTests" time="0"/>
+  <testcase name="MultiplyTwoNumbers" classname="com.MultiplicationTest" time="0"/>
+  <testcase name="ScenarioVerifyAccountspage" classname="com.MultiplicationTest" time="0"/>
 
 
 </testsuite>
