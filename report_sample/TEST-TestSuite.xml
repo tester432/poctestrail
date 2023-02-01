@@ -66,4 +66,6 @@
   <testcase name="SubtractTwoNumbers" classname="com.SubtractionTests" time="0"/>
   <testcase name="MultiplyTwoNumbers" classname="com.MultiplicationTest" time="0"/>
   <testcase name="Test" classname="com.MultiplicationTest" time="0"/>
+  <testcase classname="src.RunCucumberTest" time="0"/>
+
 </testsuite>
