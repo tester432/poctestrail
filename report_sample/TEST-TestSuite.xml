@@ -65,7 +65,7 @@
   <testcase name="AddTwoNumbersWithDecimals" classname="com.SumTests" time="0"/>
   <testcase name="SubtractTwoNumbers" classname="com.SubtractionTests" time="0"/>
   <testcase name="MultiplyTwoNumbers" classname="com.MultiplicationTest" time="0"/>
-  <testcase name="Test" classname="com.MultiplicationTest" time="0"/>
-  <testcase classname="src.RunCucumberTest" time="0"/>
+  <testcase name="Scenario: Verify Accounts page" classname="com.MultiplicationTest" time="0"/>
+
 
 </testsuite>
